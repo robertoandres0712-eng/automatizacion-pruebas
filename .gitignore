@@ -1,0 +1,12 @@
+# Ignorar archivos de sistema
+*.log
+*.tmp
+.DS_Store
+
+# Ignorar carpetas de Termux y Android
+storage/
+.termux/
+.ssh/
+.bash_history
+.gitconfig
+
